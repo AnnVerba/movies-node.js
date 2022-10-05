@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client\\my-app",
+    "\\client\\my-app\\src",
+    "\\client\\src",
+    "\\client\\src\\api",
+    "\\client\\src\\app",
+    "\\server",
+    "\\server\\controllers",
+    "\\server\\models",
+    "\\server\\routes"
+  ],
+  "SelectedNode": "\\server\\controllers\\movie-ctrl.js",
+  "PreviewInSolutionExplorer": false
+}
